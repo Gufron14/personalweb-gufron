@@ -1,0 +1,25 @@
+* {
+    font-family: 'Inter', sans-serif !important;
+  }
+
+.max-w-md {
+    max-width : 900px;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
+
+/* nav ul li a.active {
+  color: red; /* ganti warna sesuai keinginan Anda */
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: blue; /* ganti warna sesuai keinginan Anda */
+  text-decoration: underline;
+} */
+
+.float-right {
+  float: right;
+}
